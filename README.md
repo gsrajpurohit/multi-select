@@ -54,7 +54,7 @@ In the page's footer, just before, include the required JavaScript files.
 ![Screenshot](multi-select-red.png)
 
 ### Demo
-[Demo](https://jsfiddle.net/g_s_rajpurohit/Ln0u75vk/2/).
+[Demo](https://jsfiddle.net/g_s_rajpurohit/Ln0u75vk/4/).
 
 ### Support
 If you found a bug or have a feature suggestion, please email me on rajpurohitganpat@gmail.com.
