@@ -51,6 +51,7 @@ In the page's footer, just before, include the required JavaScript files.
 
 ### Example
 ![Screenshot](multi-select.png)
+![Screenshot](multi-select-red.png)
 
 ### Demo
 [Demo](http://jsfiddle.net/g_s_rajpurohit/n6ts50y8/32/).
