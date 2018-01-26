@@ -48,6 +48,10 @@ In the page's footer, just before, include the required JavaScript files.
     }); 
 </script>
 ```
+
+### Example
+![Screenshot](multi-select.png)
+
 ### Demo
 [Demo](http://jsfiddle.net/g_s_rajpurohit/n6ts50y8/32/).
 
