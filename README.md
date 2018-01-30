@@ -13,7 +13,7 @@ Inside the page's head tag include the multi-select's CSS file.
 In the page's footer, just before, include the required JavaScript files.
 
 ```
-<script src="js/multi.select.min.js"></script>
+<script src="js/multi.select.js"></script>
 ```
 
 ### 3. Create the HTML markup
