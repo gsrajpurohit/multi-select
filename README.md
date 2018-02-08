@@ -55,7 +55,10 @@ In the page's footer, just before, include the required JavaScript files.
 - Clear values
     $('#multi').multi_select('clearValues');
 - Update values
-    $.multi_select.multi_select('init', $js_config.projects);
+    $.multi_select.multi_select('init', {
+              "BD": "Bangladesh",
+              "IN": "India",
+            });
 ```
 
 ### Example
