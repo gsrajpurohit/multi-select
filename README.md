@@ -19,7 +19,7 @@ In the page's footer, just before, include the required JavaScript files.
 ### 3. Create the HTML markup
 `<div id="multi"></div>`
 
-### 5. Instantiate the MultiSelect
+### 4. Instantiate the MultiSelect
 ```
 <script type="text/javascript">
     jQuery( document ).ready(function( $ ) { 
@@ -47,6 +47,15 @@ In the page's footer, just before, include the required JavaScript files.
         }); 
     }); 
 </script>
+```
+### 5. Other uses
+```
+- Get selected values
+    $('#multi').multi_select('getSelectedValues');
+- Clear values
+    $('#multi').multi_select('clearValues');
+- Update values
+    $.multi_select.multi_select('init', $js_config.projects);
 ```
 
 ### Example
