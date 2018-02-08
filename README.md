@@ -54,7 +54,7 @@ In the page's footer, just before, include the required JavaScript files.
     $('#multi').multi_select('getSelectedValues');
 - Clear values
     $('#multi').multi_select('clearValues');
-- Update values
+- Re-initialize with Updated values
     $.multi_select.multi_select('init', {
               "BD": "Bangladesh",
               "IN": "India",
